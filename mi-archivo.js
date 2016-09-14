@@ -1,3 +1,3 @@
 alert("EDITADO");
 console.log("cambios en el archivo")
-console.log("ejemplo con sourcetree")
+console.log("ejemplo en local")
